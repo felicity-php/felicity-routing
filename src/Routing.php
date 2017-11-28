@@ -6,7 +6,7 @@
  * @license Apache-2.0
  */
 
-namespace felicity\routing\services\config;
+namespace felicity\routing;
 
 use ReflectionException;
 use felicity\datamodel\ModelCollection;
